@@ -1,0 +1,26 @@
+{
+  "name": "qr_code_gen",
+  "version": "1.0.0",
+  "description": "This is used to generate different types of QR Codes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anilbalaka/Qr_Code_Gen.git"
+  },
+  "author": "Anil",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anilbalaka/Qr_Code_Gen/issues"
+  },
+  "homepage": "https://github.com/Anilbalaka/Qr_Code_Gen#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.12",
+    "qr-image": "^3.2.0"
+  }
+}
