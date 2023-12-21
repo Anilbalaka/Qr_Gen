@@ -1,2 +1,1 @@
-# Qr_Gen
- 
+This is used to generate different types of QR Codes. Depending on your purpose, you can use this generator to create QR Codes to open a website, view a PDF file, listen to music, watch Youtube videos, store image files, connect to a WiFi network, and much more.It  simply converts the give text into Qr code.
